@@ -1,0 +1,9 @@
+haeger_model.fmu
+
+Failed to load path/to/haeger_model.fmu. Failed to validate modelDescription.xml:
+ERROR (line 725, column 0): Element 'Outputs': Missing child element(s). Expected is ( Unknown ).
+ERROR (line 732, column 0): Element 'InitialUnknowns': Missing child element(s). Expected is ( Unknown ).
+
+
+haeger_model_win64.fmu
+Failed to load path/to/haeger_model_win64.fmu. The unit 'ml' of variable 'C_a.V' is not defined.
